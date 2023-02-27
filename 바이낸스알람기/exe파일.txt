@@ -1,0 +1,10 @@
+E:
+
+파이썬 파일 경로로 이동
+cd E:\pycharm_project
+
+#경로실행
+pyinstaller -w -F make_scv.py #F 는 하나의 파일 w는 콘솔창 실행안됨.
+
+
+pyinstaller -F test.py
